@@ -1,0 +1,8 @@
+login system:
+    name, roll no, class, password
+
+registration: 
+    name, roll no, class, password
+
+stakeholders: admin, user, event organizers
+

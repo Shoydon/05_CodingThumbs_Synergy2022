@@ -1,0 +1,25 @@
+body{
+    padding: 20;
+    margin: 20;
+    background: linear-gradient(to right, #0f5f87,#3c9662);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+#pers-det{
+    padding: 30px;
+    padding-top: 5px;
+    margin-left: 5px;
+    background: rgba(224, 222, 231, 0.7);
+    border-radius: 5px;
+}
+
+.btn-lg{
+    margin-left: 20px;
+    color
+}
