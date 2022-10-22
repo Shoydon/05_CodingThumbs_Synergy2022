@@ -8,5 +8,9 @@ app.secret_key='112'
 def index():
     return render_template('Homepage.html') 
 
+@app.route('/Events')
+def Events():
+    return render_template('Events.html')
+
 if __name__=='__main__':
     app.run(debug=True)
